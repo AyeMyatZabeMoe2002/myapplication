@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="message">Welcome To KMD</string>
+    <string name="message2">Enter your name</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="email">email</string>
+    <string name="terms_and_conditions">terms and conditions</string>
+    <string name="next_activity">Next Activity</string>
+    <string name="btnClick">"Save"</string>
+    <string name="terms">Terms and Conditions</string>
+    <string name="next_item">Next</string>
+    <string name="exit_item">Exit</string>
+</resources>
